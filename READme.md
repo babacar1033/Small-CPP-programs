@@ -1,0 +1,2 @@
+These are small C++ executable programs written in C++. One can compile them with any C++ compiler before executing them to see the purpose of the program.
+The structure of the code is very basic since test cases and used libraries were all put into the same source code/
